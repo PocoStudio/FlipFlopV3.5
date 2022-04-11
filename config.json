@@ -1,4 +1,4 @@
 {
-    "prefix": "/", // Your prefix
-    "token": "Token of the bot" // Token 
+    "prefix": "Your prefix",
+    "token": "Token of the bot"  
 }
